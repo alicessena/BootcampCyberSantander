@@ -23,7 +23,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 
 ## Badges 
 
-<table border="2">
+<table border="1">
   <tr>
     <td>
         <a href="#"><img src="./img/1.webp" width="100px"></a>
